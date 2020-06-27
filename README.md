@@ -20,7 +20,7 @@ To Clone this repository:
 
 Command Line Installations:
     
-    npm install
+    npm install axios
 
 To Run: 
 
